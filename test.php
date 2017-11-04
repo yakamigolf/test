@@ -1,4 +1,5 @@
 <?php
+//http://www.aforgenet.com/framework/docs/html/18d8bd4d-b15e-8507-a480-b2fe6eaeab44.htm
 $access_token = 'vNy5K+Nzs/ENioZlBcj6QrZlMhnsidEr7rWjuP/qfrAiJhuGa1JBU7HYloNqNrHWHpRnS+vjwuXdoPlB0HwutYqdARylI26HhpujyH+XAknA8cvO3sKd7X9OOkrgzjqurhiV74XDEOMgyxdtxHghpgdB04t89/1O/w1cDnyilFU=';
 
 // Get POST body content
